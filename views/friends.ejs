@@ -1,0 +1,35 @@
+<h1>Friends and Boards</h1>
+
+<h2>Your Boards</h2>
+<ul>
+    <% boards.forEach(board => { %>
+        <li>
+            <strong><%= board.name %></strong> - <%= board.description || "No description" %>
+            <br>
+            <a href="<%= board.url %>" target="_blank">View Board</a>
+        </li>
+    <% }) %>
+</ul>
+
+<h2>Your Friends</h2>
+<ul>
+    <% friends.forEach(friend => { %>
+        <li>
+            <%= friend.first_name %> <%= friend.last_name %> (@<%= friend.username %>)
+        </li>
+    <% }) %>
+</ul>
+
+<style>
+    ul {
+        max-height: 300px;
+        overflow-y: auto;
+        list-style-type: none;
+        padding: 0;
+    }
+
+    li {
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+    }
+</style>
