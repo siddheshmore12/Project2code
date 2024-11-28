@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pinsight",
+  "private_key_id": "407e0a5a5b005b5538d16b923cbad90004978687",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlQghhA+7BoypE\n8fRXqX4UAGsyhtbxQ/mc4aK93hnxsGEh1wvaTS54ISc2zOjhorRfu/0jxQaSItqW\nLRd90/OAilnYqf2uO0M8XYePsBRXuMpVOaAoNx907YD43y8C5kMdIHxSIGKHZbaJ\n/WVzvUb4Teo5GSnnhYBftIaozPhOciOKaxpiVyhpLehKthzF86jzM9NmlLUr/C4h\nI6YYXFkd/6N4IOZhNlS4swywM2AVHLMe/W+BXsK6mUfRD/TsdRtRD8rj2MqmNSvr\ns0qV7ffTPvNRaSaf7ShNTUI/VTW093Qm2w1S6RK7DfENEYDtSTwQ5/9ud515foKs\nUu5FPrThAgMBAAECggEAHnq19Hf6YSIZN4tXaeQtz+jyV4hXwUHBSNsysL17g4do\nkoAtojtKp0v5E68QcxcXlfa/Q+co5XrexsJ98gugvwElyslm4agdW0QwBqlpOvRl\nagk8Qrx5YSlGUVASxvboC1JLVPvbPZcHOrdGqqmKau6o6ihvSsmT9KVilcSSapM/\nufZsqMwZ/XIaSDNRQa1s9vLJW0gD5dSsWBeNuoS2w+FIqx0FetJ8lVFMPnbP48ol\nbTzKJPK3POasey+bG14yPjb6yxYIE6b0bH+te3VHcL9yCSYOQ5msC+wseiogIti5\nYWbyA7InUt2kSLPHqYgiWX3fFjjdHMuDoiI4UR/RJQKBgQD3cJg0wHLt49yYxdvS\n/tGCzJmH+gCZVqB87F/aq0Uhj4RmA3OUDrHh10+nqz3T5Jo7XBeBjtd8vpApZ2Rr\n621wh997HqfOtAVzeOlFsuodtycyNTrFoVzlSc6FSwhZfEv+5878nqaWw8tV+aAl\n+uoss8VZWUBAfla7DppPK5hPdwKBgQDtMGnmJ5z8KEsegHyT2TZYNKeB3agVMqCW\nH5V3KIBk3+VR88o+q7hiFHxpOlfvexugafRQrTFEwwJKhLLIpRYxZjnFrQP/GWFX\n6s8hy0gqrDY6rDxDn4RBUkoas0p4tRqhZx0fo/K2lMZY9S2XUPxA//1n0itdozLQ\nh2zN5QYkZwKBgDTNKR2wp5XOFwfeyO74g3rW8DhNCA2wp6SgyD+gZqsntggS2noQ\nvLLFwHC2IQZzdNoP59A0zBUJkTfUoWBKJ9toky7xtrtsPPGMLrM5362hpNKY+0ar\nDWi8XD6jaU+3L3xguRG9RS1M8LoS/7K7HXeWkRlk60oX66gVEKauVd03AoGAPTUR\nHuN6D1gWinh9rWmQLJLp5wlcJpw59IOR/n3lJCLi+pL+zc1id2zx7fWwW4xZRLwS\n3/7Rh/0KylAUEtMHNxg6MFjFfz79b8KYURA0P07Rb7KimpC/gFvL47gAr8WMabpC\nObgFGjiqNqqOaU3syplEu1Xw+ujyY/2OhlNjkmECgYEAo/ZOEIYhztmW9i2SRhDx\nQ4dZsn12Ah5ISMcS8/SfD2bcmxrcKE1POSK6L2iSmOtt3QtYAgwoQic4VZz5pamT\nhA6FJ/17lF1lS/XARvgTVxAsBfk+zp9c43VS9vgbKdoMn6ycNErpr4SUjcBP3DXe\n8+tCHJrSgoP5lcyrw9qvxio=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pinsight-service-account@pinsight.iam.gserviceaccount.com",
+  "client_id": "100439184106420650204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pinsight-service-account%40pinsight.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
